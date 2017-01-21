@@ -1,0 +1,25 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReiiYuki/Learn-GraphQL.js.git"
+  },
+  "author": "Voraton Lertrattanapaisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReiiYuki/Learn-GraphQL.js/issues"
+  },
+  "homepage": "https://github.com/ReiiYuki/Learn-GraphQL.js#readme"
+}
